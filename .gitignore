@@ -68,6 +68,10 @@ ipch/
 .idea/**/*.iml
 .idea/**/*.ipr
 .idea/**/*.iws
+!.idea/codeStyles/codeStyleConfig.xml
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/util.iml
 out/
 
 
